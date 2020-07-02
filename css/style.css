@@ -1,0 +1,25 @@
+.add-user ul{
+    list-style-type: none;
+}
+.add-user ul li{
+    margin: 12px 0;
+}
+.bordered{
+    border: 1px solid rgb(123, 160, 246);
+    border-radius: 5px;
+}
+.full-size{
+    width: 100%;
+    text-align: left;
+}
+.full-size a{
+    text-align: left;
+}
+table td{
+    max-width: 100px;
+    font-size: .7em;
+}
+.navbar ul li a{
+    color: #fff!important;
+    text-decoration: none!important;
+}
